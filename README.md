@@ -7,8 +7,22 @@
 - 😄 Pronouns: he/him/his
 - 💬 Ask me about **C/C++/JAVA/Golang**
 
-**Stats:**  
+### Recent Activities
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=noorall&show_icons=true&theme=light)
+<!-- START NEW SECTION -->
+<div style="text-align: center;">
+<h4><p align="center">My GitHub Stats</p></h4>
+</div>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorall&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+| Github Statistics                                                                                           | My Language                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=noorall&theme=dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noorall&hide=TeX&layout=compact&theme=dark&langs_count=8&card_width=460) |
+
+<hr>
+
+<div style="text-align: center;">
+<h4><p align="center">Visitors Count</p></h4>
+<p align="center"><img src="https://profile-counter.deno.dev/:noorall:/count.svg"  alt=""/></p> 
+</div>
+
+<hr>
